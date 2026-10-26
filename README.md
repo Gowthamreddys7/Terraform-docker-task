@@ -31,10 +31,8 @@ Terraform-docker-task/
 ├── main.tf
 ├── README.md
 └── Screenshots/
-    ├── terraform-init.png
     ├── terraform-plan.png
-    ├── terraform-apply.png
-    ├── docker-ps.png
+    ├── docker.png
     ├── terraform-state.png
     └── terraform-destroy.png
 ```
